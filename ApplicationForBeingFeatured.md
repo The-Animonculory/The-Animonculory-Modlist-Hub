@@ -1,6 +1,6 @@
-<span style="color:#C77414;font-weight:800;font-size:32px">
-Application for being Featured
-</span>
+
+# Application for being Featured
+
 
 ## Requirements:
 
