@@ -1,4 +1,4 @@
-### Featured Lists
+# Featured Lists
 
 ## Skyrim SE
 
