@@ -1,7 +1,7 @@
 
-### Welcome to the Animonculory's mod list hub
+# Welcome to the Animonculory's mod list hub
 
-Featured Games:
+## Featured Games:
 
 - Skyrim SE
 
