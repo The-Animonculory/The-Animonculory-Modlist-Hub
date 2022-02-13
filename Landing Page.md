@@ -5,7 +5,7 @@
 ## Introduction
 
 This repository was created out of a desire to have a central place for showcasing various works of The Animonculory and affiliated partners.
-Our [website](www.https://sites.google.com/view/theanimonculory/the-animonculory) contains a good visualisation of what to expect. All featured modlists are made with the Wabbajack tool. Feel free to join our [Discord server](https://discord.gg/DffHKcszfg) if you have further questions about the featuring process or the modlist hub in general.
+Our [website](https://sites.google.com/view/theanimonculory/the-animonculory) contains a good visualisation of what to expect. All featured modlists are made with the Wabbajack tool. Feel free to join our [Discord server](https://discord.gg/DffHKcszfg) if you have further questions about the featuring process or the modlist hub in general.
 
 ## Overview
 
